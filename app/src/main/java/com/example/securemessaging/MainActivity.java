@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView listView;
 
 
-    //TODO FINISH ME
+
 
     private DatabaseReference databaseReference;
 
